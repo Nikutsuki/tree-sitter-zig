@@ -1,5 +1,6 @@
 .{
     .name = .tree_sitter_zig,
+    .fingerprint = 0xb3d00960866555e3,
     .version = "1.1.2",
     .dependencies = .{
         .tree_sitter = .{
